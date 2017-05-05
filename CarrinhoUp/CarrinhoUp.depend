@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1493995508 source:c:\users\icmc\desktop\carrinhoup\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491578889 source:c:\users\icmc\desktop\carrinho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
