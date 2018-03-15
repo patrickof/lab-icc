@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521114725 source:c:\users\icmc\desktop\binary_search\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
